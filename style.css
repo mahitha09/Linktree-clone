@@ -1,14 +1,13 @@
 body{
-    background: #C9A6BF;
-    cursor: none;
+    background: #ecc3e1;
+    cursor:none;
 }
 
 .list-group-item-action{
-    background-color: #e9cde2;
+    background-color: #f5dfef;
     line-height: 1;
     padding: 1.3rem;
     margin-bottom: 6px;
-    box-shadow: 0 0 5px #C9A6BF;
     transition: all 0.3s ease;
     border: 2px solid #e9cde2;
 }
