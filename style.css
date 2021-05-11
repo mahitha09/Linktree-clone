@@ -1,0 +1,9 @@
+body{
+    background: #C9A6BF;
+}
+
+.list-group-item-action{
+    background-color: #e9cde2;
+    line-height: 1;
+    padding: 1.5rem;
+}
