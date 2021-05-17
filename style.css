@@ -1,18 +1,18 @@
 body{
-    background: #ecc3e1;
-    cursor:none;
+    background: linear-gradient(90deg, rgba(255,2,245,1) 0%, rgba(102,22,240,1) 100%, rgba(0,0,0,1) 100%);
+    
 }
 
 .list-group-item-action{
-    background-color: #f8e8f4;
     line-height: 1;
     padding: 1.3rem;
     margin-bottom: 6px;
     transition: all 0.3s ease;
-    border: 2px solid #e9cde2;
-}
-
-.list-group-item-action:hover{
+    background-color: white;
+    border: none;
     color: black;
-    background-color: #d19cd3;
+}
+nav{
+    margin-top: 2rem;
+    color: #fff;
 }
