@@ -1,6 +1,6 @@
 body{
-    background: linear-gradient(90deg, rgba(255,2,245,1) 0%, rgba(102,22,240,1) 100%, rgba(0,0,0,1) 100%);
-    
+    background: rgb(12, 12, 194);
+
 }
 
 .list-group-item-action{
@@ -9,8 +9,7 @@ body{
     margin-bottom: 6px;
     transition: all 0.3s ease;
     background-color: white;
-    border: none;
-    color: black;
+    border: none; 
 }
 nav{
     margin-top: 2rem;
